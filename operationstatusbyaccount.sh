@@ -1,0 +1,1 @@
+zcash-cli z_getoperationstatus $1
